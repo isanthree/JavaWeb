@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-02-servlet/about-request/about-request.iml" filepath="$PROJECT_DIR$/javaweb-02-servlet/about-request/about-request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-02-servlet/about-response/about-response.iml" filepath="$PROJECT_DIR$/javaweb-02-servlet/about-response/about-response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-upload/file-upload.iml" filepath="$PROJECT_DIR$/file-upload/file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-01-maven/javaweb-01-maven.iml" filepath="$PROJECT_DIR$/javaweb-01-maven/javaweb-01-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-01-maven02/javaweb-01-maven02.iml" filepath="$PROJECT_DIR$/javaweb-01-maven02/javaweb-01-maven02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-02-servlet/javaweb-02-servlet.iml" filepath="$PROJECT_DIR$/javaweb-02-servlet/javaweb-02-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-filter/javaweb-filter.iml" filepath="$PROJECT_DIR$/javaweb-filter/javaweb-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-jsp/javaweb-jsp.iml" filepath="$PROJECT_DIR$/javaweb-jsp/javaweb-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-session-cookie/javaweb-session-cookie.iml" filepath="$PROJECT_DIR$/javaweb-session-cookie/javaweb-session-cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-02-servlet/servlet-01/servlet-01.iml" filepath="$PROJECT_DIR$/javaweb-02-servlet/servlet-01/servlet-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb-02-servlet/servlet-02/servlet-02.iml" filepath="$PROJECT_DIR$/javaweb-02-servlet/servlet-02/servlet-02.iml" />
+    </modules>
+  </component>
+</project>

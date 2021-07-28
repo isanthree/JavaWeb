@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="javaweb-jsp" />
+        <module name="file-upload" />
+        <module name="javaweb-01-maven" />
+        <module name="about-response" />
+        <module name="servlet-02" />
+        <module name="about-request" />
+        <module name="servlet-01" />
+        <module name="javaweb-session-cookie" />
+        <module name="javaweb-01-maven02" />
+        <module name="javaweb-filter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="about-request" target="1.7" />
+      <module name="about-response" target="1.7" />
+      <module name="file-upload" target="1.5" />
+      <module name="javaweb-01-maven" target="1.7" />
+      <module name="javaweb-01-maven02" target="1.5" />
+      <module name="javaweb-02-servlet" target="1.5" />
+      <module name="javaweb-filter" target="1.5" />
+      <module name="javaweb-jsp" target="1.5" />
+      <module name="javaweb-session-cookie" target="1.7" />
+      <module name="servlet-01" target="1.7" />
+      <module name="servlet-02" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

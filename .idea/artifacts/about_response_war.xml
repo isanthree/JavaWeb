@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="about-response:war">
+    <output-path>$PROJECT_DIR$/javaweb-02-servlet/about-response/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>about-response</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="about-response.war">
+      <element id="artifact" artifact-name="about-response:war exploded" />
+    </root>
+  </artifact>
+</component>
